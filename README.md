@@ -275,7 +275,6 @@ aws lambda add-permission --function-name "function_name"
 3) Delete DynamoDB tables manually
 
 ## Contributing
-
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
